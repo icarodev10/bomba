@@ -5,6 +5,10 @@ Um simulador de desarme de bomba interativo que integra **Godot 4**, **Python** 
 ## 🕹️ O Projeto
 Este projeto leva a experiência de jogos estilo *Escape Room* para um novo nível, onde a interface do jogo (Godot) e o hardware (Arduino) estão em constante sincronia. O jogador tem um tempo limite para interpretar uma regra lógica gerada aleatoriamente e desconectar o jumper correto na vida real.
 
+## 📸 DEMO:
+
+https://github.com/user-attachments/assets/64970d29-bee7-4024-a6fc-ed73824d52fe
+
 ## 💻 Desafios Técnicos e Aprendizados
 Este projeto consolidou conhecimentos avançados de integração de sistemas e lógica de programação:
 
